@@ -1,1 +1,3 @@
-Day la README tu nhanh main
+Day la README da resolve:
+- Tu nhanh main
+- Tu nhanh conflict-demo
